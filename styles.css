@@ -52,8 +52,7 @@ nav .right ul li a {
   justify-content: space-between;
   align-items: center;
   padding: 0 50px;
-  margin: 50px 0;
-  margin-bottom: 100px;
+  margin: 50px 0 100px;
   gap: 40px;
 }
 
